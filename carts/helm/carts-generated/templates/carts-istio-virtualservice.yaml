@@ -8,7 +8,7 @@ spec:
   - public-gateway.istio-system
   - mesh
   hosts:
-  - carts.sockshop-production.34.30.151.155.nip.io
+  - carts.sockshop-production.34.27.12.115.nip.io
   - carts
   http:
   - route:
